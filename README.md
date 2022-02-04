@@ -4,7 +4,7 @@ Filters out EN emotes that aren't from you or to you. To be used as regular expr
 ## Emotes with a target that aren't (you)
 Blocks out emote text that doesn't target you or isn't an emote you used. Won't block out custom emotes because that text can be _anything_.
 ```
-[a-zA-Z\'\-]{2,15} [a-zA-Z\'\-]{2,15} ((stretches next|succumbs|nods|bids farewell|bows courteously|motions joyfully|waves) to|(spars|disagrees|bumps fists|agrees wholeheartedly) with|(points|nods|smiles|winks) at|((flexes (his|her) muscles)|claps|hums a playful tune) for|(does the side step|weeps in sorrow|staggers) before|is visibily infuriated by|casts Megaflare\.|celebrates victory|dances sprightly|gently pats|encourages|sees|congratulates|questions|slaps|offers|pokes|plays|bows|gazes|looks (at|away from)|seems|performs|laughs|embraces|controls|consoles|bursts|gives|tries|cheers|blows|dotes|shows) (?!you|your)
+[a-zA-Z\'\-]{2,15} [a-zA-Z\'\-]{2,15} ((stretches next|succumbs|nods|bids farewell|bows courteously|motions joyfully|waves) to|(spars|disagrees|bumps fists|agrees wholeheartedly|chats) with|(points|nods|smiles|winks) at|((flexes (his|her) muscles)|claps|hums a playful tune) for|(does the side step|weeps in sorrow|staggers|wrings (his|her) hands obsequiously) before|is visibily infuriated by|casts Megaflare\.|celebrates victory|dances sprightly|gently pats|encourages|sees|congratulates|questions|slaps|offers|pokes|plays|bows|gazes|looks (at|away from)|seems|performs|laughs|embraces|controls|consoles|bursts|gives|tries|cheers|blows|dotes|shows) (?!you|your)
 ```
 
 ## No Target Emotes

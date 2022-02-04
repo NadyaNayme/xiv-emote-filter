@@ -1,5 +1,5 @@
 # xiv-emote-filter
-Filters out emotes that aren't from you or to you. To be used as regular expression filters with [NoSoliciting's](https://git.sr.ht/~jkcclemens/NoSoliciting) "Other filters" setting.
+Filters out EN emotes that aren't from you or to you. To be used as regular expression filters with [NoSoliciting's](https://git.sr.ht/~jkcclemens/NoSoliciting) "Other filters" setting. Other languages not supported.
 
 ## Emotes with a target that aren't (you)
 Blocks out emote text that doesn't target you or isn't an emote you used. Won't block out custom emotes because that text can be _anything_.

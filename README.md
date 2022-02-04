@@ -11,7 +11,7 @@ Blocks out emote text that doesn't target you or isn't an emote you used. Won't 
 Less commonly used so more are likely to have slipped past. This is emote text such as `First Last cheers to the rhythm.` or `First Last performs the bee's knees dance.`
 
 ```
-[a-zA-Z\'\-]{2,15} [a-zA-Z\'\-]{2,15} snaps (his|her) fingers|is uncontainably jubilant|is charmed|strikes a most gentlemanly pose|relaxes (his|her) pose|wipes (his|her) brow|keeps a watchful eye over (his|her) surroundings|buries (his|her) face in disbelief|motions joyfully|scatters coins about the area|lets out a cheer|dances happily|pats the air|bids farewell|laughs|claps|staggers
+[a-zA-Z\'\-]{2,15} [a-zA-Z\'\-]{2,15} snaps (his|her) fingers|is uncontainably jubilant|is charmed|strikes a most gentlemanly pose|relaxes (his|her) pose|wipes (his|her) brow|keeps a watchful eye over (his|her) surroundings|buries (his|her) face in disbelief|motions joyfully|scatters coins about the area|lets out a cheer|dances happily|pats the air|bids farewell|performs an exotic Near Eastern dance|laughs|claps|staggers
 ```
 
 These lists were built by AFK'ing in Limsa for a few hours and blocking any emotes I saw used. As such it may not be 100% comprehensive. It is probably missing a lot of Mogstation emotes, Promotion emotes, and emotes unlocked with codes like Diamond Dust (`/iceheart)`.
